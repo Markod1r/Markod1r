@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Marcois
 
 <!--
 **Markod1r/Markod1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning javascript
+🌱 I’m currently learning front end development
