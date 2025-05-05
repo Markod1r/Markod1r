@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning front end development
+
+<p align="center">
+  <a href="https://github.com/Markod1r">
+    <img height="180em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlweXd0eWVqMWlhd2xyZHd6djRzcXR2czcwenpmdHNoZDRjOHdpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fu3OjBQiCs3s0ZuLY3/giphy.gif" alt="GitHub Stats"/>
+  </a>
+</p>
