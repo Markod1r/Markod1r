@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Markod1r">
-    <img height="180em" src="https://i.giphy.com/jC1zKGLmfVYXDEgUii.webp" alt="GitHub"/>
+    <img height="500em" src="https://i.giphy.com/jC1zKGLmfVYXDEgUii.webp" alt="GitHub"/>
   </a>
 </p>
