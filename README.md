@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning front end development
 
 <p align="center">
-  <a href="https://markod1r.github.io/">
+  <a href="https://markod1r.github.io/" target="_blank">
     <img height="300em" src="https://i.giphy.com/SggILpMXO7Xt6.webp" alt="GitHub"/>
   </a>
 </p>
