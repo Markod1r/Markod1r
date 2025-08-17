@@ -17,7 +17,7 @@
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href="https://tailwindcss.com/"><img align="left" alt="Tailwindcss" title="Tailwindcss" width="27px" src="https://www.svgrepo.com/show/374118/tailwind.svg" /></a>
 <a href="https://vite.dev/"><img align="left" alt="Vite" title="Vite" width="27px" src="https://www.svgrepo.com/show/374167/vite.svg" /></a>
-
+<br/>
 ### GitHub Statistics
 
 <p align="left">
