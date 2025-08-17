@@ -18,7 +18,11 @@
 <a href="https://tailwindcss.com/"><img align="left" alt="Tailwindcss" title="Tailwindcss" width="27px" src="https://www.svgrepo.com/show/374118/tailwind.svg" /></a>
 <a href="https://vite.dev/"><img align="left" alt="Vite" title="Vite" width="27px" src="https://www.svgrepo.com/show/374167/vite.svg" /></a>
 
+<p align="left">
+
 ## GitHub Statistics
+
+</p>
 
 <p align="left">
 <a href="https://github.com/Markod1r">
