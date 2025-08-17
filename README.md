@@ -18,7 +18,7 @@
 <a href="https://tailwindcss.com/"><img align="left" alt="Tailwindcss" title="Tailwindcss" width="27px" src="https://www.svgrepo.com/show/374118/tailwind.svg" /></a>
 <a href="https://vite.dev/"><img align="left" alt="Vite" title="Vite" width="27px" src="https://www.svgrepo.com/show/374167/vite.svg" /></a>
 
-<p align="left">
+<p align="">
 
 ## GitHub Statistics
 
@@ -27,6 +27,6 @@
 <p align="left">
 <a href="https://github.com/Markod1r">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Markod1r&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srmpandejlaki&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Markod1r&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
